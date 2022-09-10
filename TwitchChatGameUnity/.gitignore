@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# VERY IMPORTANT FOR THIS PROJECT BECAUSE THIS FILE HOLDS TWITCH ACCOUNT CREDENTIALS
+/[Aa]ssets/Scripts/NotSharedToRepo*
+
